@@ -4,11 +4,11 @@ An e-commerce application built with Rails 4.2 that allows visitors to browse pr
 
 ## Screenshots
 ### Homepage
-![Homepage]()
+![Homepage](https://github.com/Emonster97/Jungle/blob/master/screenshots/homepage.png?raw=true)
 ### Product Page
-![Product-page]()
+![Product-page](https://github.com/Emonster97/Jungle/blob/master/screenshots/dashboard.png?raw=true)
 ### Admin Dashboard
-![Admin-dashboard]()
+![Admin-dashboard](https://github.com/Emonster97/Jungle/blob/master/screenshots/dashboard.png?raw=true)
 
 ## Additional Steps for Apple M1 Machines
 
