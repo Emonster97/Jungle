@@ -2,13 +2,6 @@
 
 An e-commerce application built with Rails 4.2 that allows visitors to browse products, add them to their cart and checkout. 
 
-## Screenshots
-### Homepage
-![Homepage](https://github.com/Emonster97/Jungle/blob/master/screenshots/homepage.png?raw=true)
-### Product Page
-![Product-page](https://github.com/Emonster97/Jungle/blob/master/screenshots/product.png?raw=true)
-### Admin Dashboard
-![Admin-dashboard](https://github.com/Emonster97/Jungle/blob/master/screenshots/dashboard.png?raw=true)
 
 ## Additional Steps for Apple M1 Machines
 
@@ -39,3 +32,11 @@ More information in their docs: <https://stripe.com/docs/testing#cards>
 * Rails 4.2 [Rails Guide](http://guides.rubyonrails.org/v4.2/)
 * PostgreSQL 9.x
 * Stripe
+
+## Screenshots
+### Homepage
+![Homepage](https://github.com/Emonster97/Jungle/blob/master/screenshots/homepage.png?raw=true)
+### Product Page
+![Product-page](https://github.com/Emonster97/Jungle/blob/master/screenshots/product.png?raw=true)
+### Admin Dashboard
+![Admin-dashboard](https://github.com/Emonster97/Jungle/blob/master/screenshots/dashboard.png?raw=true)
