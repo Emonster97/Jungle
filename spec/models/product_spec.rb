@@ -32,7 +32,7 @@ RSpec.describe Product, type: :model do
         @product = Product.new(name: 'Dress', price_cents: nil, quantity:5, category_id:@category.id)
         @product.save
 
-        expect(@product.errors.full_messages).to include("Price is not a number")
+        expect(@product.errors.full_messages).to include("Price can't be blank")
       end
     end
 
