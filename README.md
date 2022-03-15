@@ -6,7 +6,7 @@ An e-commerce application built with Rails 4.2 that allows visitors to browse pr
 ### Homepage
 ![Homepage](https://github.com/Emonster97/Jungle/blob/master/screenshots/homepage.png?raw=true)
 ### Product Page
-![Product-page](https://github.com/Emonster97/Jungle/blob/master/screenshots/dashboard.png?raw=true)
+![Product-page](https://github.com/Emonster97/Jungle/blob/master/screenshots/product.png?raw=true)
 ### Admin Dashboard
 ![Admin-dashboard](https://github.com/Emonster97/Jungle/blob/master/screenshots/dashboard.png?raw=true)
 
